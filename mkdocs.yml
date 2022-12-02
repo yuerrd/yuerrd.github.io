@@ -48,8 +48,8 @@ extra:
     provider: google
     property: G-3R168EQ61K
   social:
-    - type: 'github'
-      link: 'https://github.com/yuerrd'
+    - icon: fontawesome/brands/github
+      link: https://github.com/yuerrd
 
 nav:
   - 一.算法:
