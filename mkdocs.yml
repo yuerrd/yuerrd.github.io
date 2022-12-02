@@ -47,6 +47,34 @@ extra:
 
 nav:
   - 一.算法:
-      - 1.1rsa: algorithm/rsa.md
-  -  二.计算器学习:
+      - 1.1RSA加密: algorithm/rsa.md
+      - 1.2道格拉斯: algorithm/douglas-peucker.md
+      - 1.3HyperLogLog: algorithm/hyper-log-log.md
+  - 二.计算器学习:
       - 2.1基础数学: ai/basic-math.md
+      - 2.2Python基础: ai/python-base.md
+      - 2.3科学技术库: ai/computing-library.md
+  - 三.Java:
+      - 3.1基础: java/java.md
+      - 3.2JVM: java/jvm.md
+      - 3.3Synchronized: java/synchronized.md
+      - 3.4ThreadLocal: java/thread-local.md
+  - 四.常用命令:
+      - 4.1Git: command/git.md
+      - 4.2Hbase: command/hbase.md
+      - 4.3Linux: command/linux.md
+      - 4.4Supervisor: command/supervisor.md
+  - 五.容器技术:
+      - 5.1K8S安装: container/k8s.md
+      - 5.2NFS安装: container/nfs.md
+      - 5.3Prometheus安装: container/prometheus-outside-k8s-cluster.md
+      - 5.4Mongodb安装: container/deploy-a-replica-set-mongodb.md
+  - 六.常用组件:
+      - 6.1Redis: component/redis.md
+      - 6.2Zookeeper: component/zookeeper.md
+      - 6.3Mysql: component/mysql.md
+  - 七.其他:
+      - 7.1自签名证书: other/cert-generation.md
+      - 7.2网络: other/internet.md
+      - 7.3IPv4: other/ipv4.md
+      - 7.4常用应用安装: other/install.md
