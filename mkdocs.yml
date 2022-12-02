@@ -46,5 +46,7 @@ extra:
   generator: false
 
 nav:
-  - 一算法:
+  - 一.算法:
       - 1.1rsa: algorithm/rsa.md
+  -  二.计算器学习:
+      - 2.1基础数学: ai/basic-math.md
