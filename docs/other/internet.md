@@ -36,7 +36,7 @@
    
 
 2. ### LVS
-   ![lvs](../static/img/other/lvs.png)
+   ![lvs](../assets/images/other/lvs.png)
    
    - #### NAT
 
@@ -46,7 +46,7 @@
 
      基于二层协议
      
-     ![dr](../static/img/other/dr.png)
+     ![dr](../assets/images/other/dr.png)
      
      node1 192.168.0.107
      

@@ -174,7 +174,7 @@
      3. DiscardOldest：扔掉排队时间最久的
      4. CalleRuns：调用者处理任务
      
-     ![](../static/img/java/ThreadPoolExecutor.png)
+     ![](../assets/images/java/ThreadPoolExecutor.png)
    
 2. #### SheduledThreadPollExecutor
   
@@ -188,11 +188,11 @@
    
    
    
-   ![](../static/img/java/SheduledThreadPollExecutor.png)
+   ![](../assets/images/java/SheduledThreadPollExecutor.png)
    
 3. #### ForkJoinPool
 
-      ![](../static/img/java/ForkJoin.png)
+      ![](../assets/images/java/ForkJoin.png)
 
    
 

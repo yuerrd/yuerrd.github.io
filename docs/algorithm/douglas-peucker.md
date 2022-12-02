@@ -1,6 +1,6 @@
 # 道格拉斯-普克算法(Douglas–Peucker algorithm)
 
-![](../static/img/algorithm/rdp.gif)
+![](../assets/images/algorithm/rdp.gif)
 
 算法描述:
 

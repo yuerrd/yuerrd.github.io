@@ -69,7 +69,7 @@ ClassFile {
 
 ## 2. 类加载-验证-初始化
 
-![Untitled](../static/img/java/jvm/Untitled.png)
+![Untitled](../assets/images/java/jvm/Untitled.png)
 
 - C**lassloadr**
     
@@ -88,7 +88,7 @@ ClassFile {
 
 ## 3. JMM
 
-![Untitled](../static/img/java/jvm/Untitled%201.png)
+![Untitled](../assets/images/java/jvm/Untitled%201.png)
 
 [**MESI-intel](https://zh.wikipedia.org/wiki/MESI%E5%8D%8F%E8%AE%AE)（缓存一致性协议）**
 
@@ -141,18 +141,18 @@ ClassFile {
 
 - Serial 年轻代  串行回收
     
-    ![java-serial.png](../static/img/java/jvm/java-serial.png)
+    ![java-serial.png](../assets/images/java/jvm/java-serial.png)
     
 - Parallel Scavenge年轻代   并行回收
     
-    ![java-ps.drawio.png](../static/img/java/jvm/java-ps.drawio.png)
+    ![java-ps.drawio.png](../assets/images/java/jvm/java-ps.drawio.png)
     
 - SerialOld
 - ParallelOld
 - ParNew(Parallel Scavenge增强配合CMS使用)
 - CMS(ConcurrentMarkSweep )
     
-    ![java-cms.drawio.png](../static/img/java/jvm/java-cms.drawio.png)
+    ![java-cms.drawio.png](../assets/images/java/jvm/java-cms.drawio.png)
     
     问题
     
@@ -160,9 +160,9 @@ ClassFile {
     2. 浮动垃圾
 - G1
     
-    ![java-g1.drawio.png](../static/img/java/jvm/java-g1.drawio.png)
+    ![java-g1.drawio.png](../assets/images/java/jvm/java-g1.drawio.png)
     
-    ![java-region.drawio.png](../static/img/java/jvm/java-region.drawio.png)
+    ![java-region.drawio.png](../assets/images/java/jvm/java-region.drawio.png)
     
     三色标记
     

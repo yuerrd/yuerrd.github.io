@@ -214,7 +214,7 @@
 
 	  [锁状态转换的流程图](https://wiki.openjdk.java.net/display/HotSpot/Synchronization): 
 
-    ![](../static/img/java/synchronized.jpg)
+    ![](../assets/images/java/synchronized.jpg)
 
    
 
@@ -237,7 +237,7 @@
       
     ```
    
-    ![](../static/img/java/LockRecord.jpg)
+    ![](../assets/images/java/LockRecord.jpg)
    
    2. #### 偏向锁
    
@@ -597,7 +597,7 @@
    
    4. #### 重量级锁
    
-      ![](../static/img/java/ObjectSynchronizerInflate.jpg)
+      ![](../assets/images/java/ObjectSynchronizerInflate.jpg)
    
       [ObjectMonitor](https://github.com/openjdk/jdk8u/blob/4a4236a366eeb961baf157f0938634c1647c447f/hotspot/src/share/vm/runtime/objectMonitor.hpp#L137)
    

@@ -273,7 +273,7 @@
 
     $H_k=f^{‘‘}(x_k)$
 
-     ![](../static/img/ai/nd.gif)
+     ![](../assets/images/ai/nd.gif)
 
     - 逆牛顿法
 

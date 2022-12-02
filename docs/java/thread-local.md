@@ -2,7 +2,7 @@
 
 1. #### Thread ThreadLocalMap ThreadLocal 关系图
 
-   ![threadLocal](../static/img/java/threadLocal.png)
+   ![threadLocal](../assets/images/java/threadLocal.png)
 
 2. #### ThreadLocal
 
