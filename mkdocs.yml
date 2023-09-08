@@ -70,6 +70,7 @@ nav:
       - 4.2Hbase: command/hbase.md
       - 4.3Linux: command/linux.md
       - 4.4Supervisor: command/supervisor.md
+      - 4.5WSL配置: command/wsl2.md
   - 五.容器技术:
       - 5.1K8S安装: container/k8s.md
       - 5.2NFS安装: container/nfs.md
